@@ -1,4 +1,4 @@
-
+smart Addon for Alfred for macOS - quick-launch and app-uninstaller offers the most advanced Alfred for macOS addon, with quick-launch and app-uninstaller. Ideal for macOS power
 
 
 
